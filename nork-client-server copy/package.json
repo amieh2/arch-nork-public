@@ -1,0 +1,14 @@
+{
+  "name": "nork-client-server",
+  "version": "1.0.0",
+  "description": "Nork implemented using client-server architecture",
+  "scripts": {
+    "start":"node server.js & node client.js",
+    "start-windows":"START /B node server.js && node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/amieh2/architected-nork"
+  },
+  "author": "Amie Hsieh"
+}
